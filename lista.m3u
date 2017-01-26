@@ -16,7 +16,7 @@ http://unlimited6-cl.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/24_Horas_TVN_corto.png/150px-24_Horas_TVN_corto.png" , 24H
 http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
 #EXTINF:0 type="stream" channelId="143" tvg-logo="https://yt3.ggpht.com/-1RjtzpOiHT4/AAAAAAAAAAI/AAAAAAAAAAA/WU2EQtQvQvs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" , RT
-http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index800.m3u8
+http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index400.m3u8
 #EXTINF:0 type="stream" channelId="352" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" , DWTV
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 #EXTINF:0 type="stream" channelId="397" tvg-logo="http://www.ipuntotv.com/IMAGES/nhk_world.png" , NHK WORLD
